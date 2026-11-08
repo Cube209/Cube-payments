@@ -1,0 +1,6 @@
+{
+  "name": "Cube Payment",
+  "description": "Create payment Cubes, share instant checkout links, manage transactions, and customize decorations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
